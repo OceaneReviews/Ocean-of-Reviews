@@ -56,18 +56,3 @@
   <a href="stats">Stats</a> 
 </div>
 
---- 
-
- ## Introduction
- This website serves as my personal diary for the movies I watch. Here, you'll find reviews, ratings, and details about my latest and favorite films. Enjoy exploring my cinematic journey!
-
- ---
- ## Latest Watched Films
-*Mes visionnages consistent généralement en un mélange de sorties récentes et en un visionnage des films cinématographiques classiques afin d’étendre ma culture.*
-
-From latest to oldest:
-- Image 1
-- Image 2
-- Image 3
-- Image 4
-- Image 5
