@@ -42,17 +42,5 @@
   }
 </style>
 
-<div class="top-bar">
-  <h1>Welcome to My Movie Review Website</h1>
-  <p>My personal diary for movie reviews!</p>
-</div>
 
-<div class="nav-bar">
-  <a href="index">Home</a>
-  <a href="favourites">Favourites</a>
-  <a href="comfort_movies">Comfort Movies</a>
-  <a href="review">Review</a> <!-- New Review page -->
-  <a href="actor">Actor</a>   <!-- New Actor page -->
-  <a href="stats">Stats</a> 
-</div>
 
